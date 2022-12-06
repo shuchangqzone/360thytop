@@ -1,2 +1,2 @@
-www.360thy.top
+#www.360thy.top
 none
